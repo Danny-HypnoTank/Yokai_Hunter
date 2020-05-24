@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3703105766d983488d1d3f3e7d2b990, type: 3}
+  m_Name: Defend
+  m_EditorClassIdentifier: 
+  properties:
+  - stringValue: Defend
+    intValue: 0
+    sprite: {fileID: 0}
+    element: {fileID: 11400000, guid: 92003212f10bcaa4bb3fb6024b3cd235, type: 2}
+  - stringValue: Increase defence by 5
+    intValue: 0
+    sprite: {fileID: 0}
+    element: {fileID: 11400000, guid: a0a2b37edd3e9314ca940566e19f491b, type: 2}
+  - stringValue: 
+    intValue: 0
+    sprite: {fileID: 0}
+    element: {fileID: 11400000, guid: e1801a5f8f799f048a40c44ee4b5658f, type: 2}
+  - stringValue: 
+    intValue: 0
+    sprite: {fileID: 21300000, guid: 9b72a00c2cd1d5448be765f3ae68f5a0, type: 3}
+    element: {fileID: 11400000, guid: dff7bc25f7a139849874167070657e94, type: 2}
+  - stringValue: 
+    intValue: 0
+    sprite: {fileID: 21300000, guid: bf8cb513b4bad664bac2a45533cd7607, type: 3}
+    element: {fileID: 11400000, guid: 00bffe9b14ac2bb4a87603d64613f71d, type: 2}
+  - stringValue: 
+    intValue: 1
+    sprite: {fileID: 0}
+    element: {fileID: 11400000, guid: 16c6f4906876a6140bfe217e6783d174, type: 2}
+  cardLogic: {fileID: 11400000, guid: ad7a5d8de78b69d4dbc0e38d5e19327a, type: 2}
